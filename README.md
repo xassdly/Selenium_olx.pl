@@ -36,7 +36,7 @@ It demonstrates how to automate browsing, accept cookies, perform search queries
 Edit the script or simply run:
 
 ```bash
-python scraper.py
+python main.py
 ```
 
 You can change the `query` inside the script to search for different products.
